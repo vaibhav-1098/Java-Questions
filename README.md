@@ -25,7 +25,7 @@
 
 <hr>
 
-<h2>Strings<h2>
+<h2>Strings</h2>
 <ul>
     <li>Palindrome or Not</li>
     <li>Shortest Path NEWS</li>
