@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/n7FKnQY/1.png" alt="graph" width="500">
+
 <h2>Java Basics</h2>
 <ul>
     <li>leap year</li>
