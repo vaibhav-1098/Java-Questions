@@ -73,7 +73,7 @@ public class myStrings {
         char N1[]=Name1.toCharArray();
         char N2[]=Name2.toCharArray();
 
-        Arrays.sort(N1);
+        Arrays.sort(N1); 
         Arrays.sort(N2);
 
         return Arrays.equals(N1, N2);
