@@ -239,7 +239,7 @@ public class myBasics {
     public static void guessGame(){
         Scanner sc=new Scanner(System.in);
 
-        int x=(int) (Math.random()*101);
+        int x = (int) (Math.random() * 100) + 1;
         int a=-1;
         int count=0;
 
