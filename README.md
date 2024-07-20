@@ -42,3 +42,18 @@
 </ul>
 
 <hr>
+
+<h2>Arrays</h2>
+<ul>
+    <li>adding multiples of a number in an array</li>
+    <li>adding a number to each element of an array</li>
+    <li>average marks of 3 subjects</li>
+    <li>largest element in array</li>
+    <li>Binary Search</li>
+    <li>Reverse an array</li>
+    <li>Pairs in an array</li>
+    <li>Continuous subarray</li>
+    <li>Sum of each subarray</li>
+    <li>Max subarray sum</li>
+</ul>
+<p>will be updated</p>
