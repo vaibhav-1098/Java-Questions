@@ -7,7 +7,6 @@
     <li>checking prime number</li>
     <li>reverse a number</li>
     <li>arithmetic progression</li>
-    <li>fibonachi number</li>
 </ul>
 
 <hr>
