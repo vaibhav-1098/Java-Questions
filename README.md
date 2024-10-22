@@ -1,27 +1,12 @@
 <img src="https://i.ibb.co/n7FKnQY/1.png" alt="graph" width="500">
 
-<h2>Java Basics</h2>
+<h2>Java</h2>
 <ul>
-    <li>leap year</li>
-    <li>table of a number</li>
-    <li>factorial of a number</li>
-    <li>star pattern</li>
-    <li>square pattern</li>
-    <li>pyramid pattern</li>
+    <li>leap year</li> 
     <li>tax calculator</li>
-    <li>sum of first n numbers</li>
-    <li>sum of squares</li>
     <li>checking prime number</li>
-    <li>first n prime numbers</li>
-    <li>sum of digits of a number</li>
     <li>reverse a number</li>
-    <li>binary to decimal</li>
-    <li>decimal to binary</li>
-    <li>sum of odd and even numbers entered</li>
     <li>arithmetic progression</li>
-    <li>geometric progression</li>
-    <li>guess the random number</li>
-    <li>fibonachi series</li>
     <li>fibonachi number</li>
 </ul>
 
