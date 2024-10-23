@@ -190,7 +190,7 @@ public class myStrings {
             }
         }
 
-        if (count>1){NewName.append(count);}
+        if (count>1){NewName.append(count); count=1;}
 
         return NewName.toString();
     }
