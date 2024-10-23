@@ -136,6 +136,7 @@ public class myStrings {
 
             if (Name.charAt(i)==' '){
                 NewName.append(curr);
+                if (i == n - 1) break;
                 i++;
                 NewName.append(Character.toUpperCase(Name.charAt(i)));
             } else{
