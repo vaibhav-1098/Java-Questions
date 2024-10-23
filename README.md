@@ -33,6 +33,7 @@
     <li>adding a number to each element of an array</li>
     <li>average marks of 3 subjects</li>
     <li>largest element in array</li>
+    <li>Linear Search</li>
     <li>Binary Search</li>
     <li>Reverse an array</li>
     <li>Pairs in an array</li>
