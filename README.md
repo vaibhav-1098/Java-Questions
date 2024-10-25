@@ -7,6 +7,11 @@
     <li>checking prime number</li>
     <li>reverse a number</li>
     <li>arithmetic progression</li>
+    <li>adding multiples of a number in an array</li>
+    <li>adding a number to each element of an array</li>
+    <li>average marks of 3 subjects</li>
+    <li>largest element in array</li>
+    <li>Linear Search</li>
 </ul>
 
 <hr>
@@ -22,18 +27,13 @@
     <li>remove vowels</li>
     <li>capitalise first letter of all words</li>
     <li>string compression </li>
-    <li>string compression with count  ←</li>
+    <li>string compression with count</li>
 </ul>
 
 <hr>
 
 <h2>Arrays</h2>
 <ul>
-    <li>adding multiples of a number in an array</li>
-    <li>adding a number to each element of an array</li>
-    <li>average marks of 3 subjects</li>
-    <li>largest element in array</li>
-    <li>Linear Search</li>
     <li>Binary Search</li>
     <li>Reverse an array</li>
     <li>Pairs in an array</li>
@@ -41,4 +41,5 @@
     <li>Sum of each subarray</li>
     <li>Max subarray sum</li>
 </ul>
-<p>will be updated</p>
+
+<hr>
