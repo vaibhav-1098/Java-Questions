@@ -38,7 +38,9 @@
     <li>Pairs in an array</li>
     <li>Continuous subarray</li>
     <li>Sum of each subarray</li>
-    <li>Max subarray sum</li>
+    <li>MSAS-Brute force</li>
+    <li>MSAS-Prefix sum</li>
+    <li>MSAS-Kadanes algorithm</li>
 </ul>
 
 <hr>
