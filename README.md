@@ -41,6 +41,9 @@
     <li>MSAS-Brute force</li>
     <li>MSAS-Prefix sum</li>
     <li>MSAS-Kadanes algorithm</li>
+    <li><u>assignment also</u></li>
+    <li>Trapping Rainwater</li>
+    <li>Buying & Selling Stocks</li>
 </ul>
 
 <hr>
