@@ -35,6 +35,7 @@
 <ul>
     <li>Binary Search</li>
     <li>Reverse an array</li>
+    <li>Check if array has duplicates</li>
     <li>Pairs in an array</li>
     <li>Continuous subarray</li>
     <li>Sum of each subarray</li>
