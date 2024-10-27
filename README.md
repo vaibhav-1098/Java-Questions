@@ -42,7 +42,7 @@
     <li>MSAS-Brute force --- </li>
     <li>MSAS-Prefix sum --- </li>
     <li>MSAS-Kadanes algorithm --- </li>
-    <li><b>assignment also</b> ___ </li>
+    <li>Rotation of array --- </li>
     <li>Trapping Rainwater</li>
     <li>Buying & Selling Stocks</li>
 </ul>
