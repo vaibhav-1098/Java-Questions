@@ -8,7 +8,7 @@
     <li>reverse a number</li>
     <li>arithmetic progression</li>
     <li>factorial using recursion</li>
-    <li>N-th fibonacci number ---</li>
+    <li>N-th fibonacci number</li>
     <li>adding multiples of a number in an array</li>
     <li>average marks of 3 subjects</li>
     <li>largest element in array</li>
