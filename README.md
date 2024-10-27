@@ -8,7 +8,7 @@
     <li>reverse a number</li>
     <li>arithmetic progression</li>
     <li>factorial using recursion</li>
-    <li>N-th fibonacci number</li>
+    <li>N-th fibonacci number ---</li>
     <li>adding multiples of a number in an array</li>
     <li>average marks of 3 subjects</li>
     <li>largest element in array</li>
@@ -27,7 +27,7 @@
     <li>add A-Z at end of a Name</li>
     <li>remove vowels</li>
     <li>capitalise first letter of all words</li>
-    <li>string compression </li>
+    <li>string compression</li>
     <li>string compression with count</li>
 </ul>
 
@@ -41,9 +41,9 @@
     <li>Pairs in an array</li>
     <li>Continuous subarray</li>
     <li>Sum of each subarray</li>
-    <li>MSAS-Brute force --- </li>
+    <li>MSAS-Brute force</li>
     <li>MSAS-Prefix sum --- </li>
-    <li>MSAS-Kadanes algorithm --- </li>
+    <li>MSAS-Kadanes algorithm</li>
     <li>Rotation of array --- </li>
     <li>Trapping Rainwater</li>
     <li>Buying & Selling Stocks</li>
